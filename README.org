@@ -1,0 +1,32 @@
+* farm 2 pre-test (PTBR)
+
+Pra fazer fucionar, ter a seguinte estrutura:
+
+#+BEGIN_SRC
+
+raiz
+│
+│    farm2.py
+│    main.py
+│    requirements.txt
+│    rester.py
+│    runner.py
+│    waiter.py
+│
+├──folder
+│
+│    [alguns arquivos plain text]
+│
+├──logs
+│
+│    [pasta vazia para receber os logs]
+│
+├──venv
+│
+└    [coisas de venv]
+
+#+END_SRC
+
+** Apres. proposta nova farm
+
+https://docs.google.com/presentation/d/1zDBCXkhh1EwNPPovEns4iutIDJTBD9ZTtMTAsEHmZyA/edit?usp=sharing
